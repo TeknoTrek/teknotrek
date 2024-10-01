@@ -8,7 +8,7 @@ Whether you're a hobbyist or an experienced engineer, my projects are designed t
 
 Stay tuned for regular updates and new releases!
 
-Check out my YouTube channel for video tutorials: [Teknotrek YouTube](https://www.youtube.com/your-channel-link)
+Check out my YouTube channel for video tutorials: [Teknotrek YouTube](https://www.youtube.com/@TeknoTrek)
   <div id="header" align="left">
   <img src="https://komarev.com/ghpvc/?username=teknotrek&style=flat-square&color=blue" alt=""/>
 </div>
